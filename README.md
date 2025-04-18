@@ -1,2 +1,2 @@
 # ootd-rate
-OOTD Rate by AI
+OOTD Rate by AI.
