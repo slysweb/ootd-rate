@@ -6,6 +6,9 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'OOTD Rate by AI',
   description: 'AI-powered outfit rating platform',
+  icons: {
+    icon: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({

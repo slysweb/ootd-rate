@@ -5,3 +5,5 @@ node_modules
 .env.production.local
 .next
 .vercel
+.env.example
+.env
