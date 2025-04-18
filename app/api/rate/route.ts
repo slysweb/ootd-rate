@@ -3,6 +3,7 @@ import OpenAI from 'openai';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
+  // 不使用baseURL，让Node.js通过HTTP_PROXY和HTTPS_PROXY环境变量处理代理
 });
 
 export async function POST(request: Request) {

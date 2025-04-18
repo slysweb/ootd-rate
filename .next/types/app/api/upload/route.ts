@@ -1,4 +1,4 @@
-// File: D:\aicode\ootd-rate\app\api\upload\route.ts
+// File: D:\work\ootd-rate\app\api\upload\route.ts
 import * as entry from '../../../../../app/api/upload/route.js'
 import type { NextRequest } from 'next/server.js'
 
