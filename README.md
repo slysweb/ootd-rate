@@ -37,16 +37,8 @@ OOTD Rate by AI - An AI-powered outfit rating platform
 - [ ] 添加社区互动功能
 - [ ] 优化移动端体验
 
-## 项目结构
 
-参考网站：
-https://changeclothesai.online/
-https://imagedescriber.online/
-https://style.img2046.com/
 
-## 功能
-
-- 用户可以上传自己的OOTD照片，并获得AI评分和评语。
 
 
 
